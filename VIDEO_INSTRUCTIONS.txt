@@ -1,0 +1,10 @@
+HOW TO ADD YOUR VIDEO TO PAGE 9
+
+1. Export your video as an MP4 file (H.264 format works best).
+2. Rename it exactly: friendship-video.mp4
+3. Copy it into this folder, next to index.html.
+4. Double-click index.html and navigate to page 9.
+5. Press play.
+
+IMPORTANT: When uploading your website to GitHub, also upload friendship-video.mp4.
+If the video is larger than 100 MB, compress it first.

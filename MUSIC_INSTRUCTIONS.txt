@@ -1,0 +1,5 @@
+BACKGROUND MUSIC: SMILE BY AVRIL LAVIGNE
+
+To enable the song, place a legally obtained MP3 of Smile by Avril Lavigne in this folder and name it exactly smile.mp3. The website will then show a MUSIC ON/OFF button, and clicking OPEN YOUR ISSUE will attempt to play it. Browsers may require an additional tap.
+
+The page 6 photo, page 10 images and page 9 video are embedded in index.html and will work even if the HTML is opened by itself.

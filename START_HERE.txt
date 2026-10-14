@@ -1,0 +1,16 @@
+THE ANA ISSUE — BEGINNER EDITION ♡
+
+1. Right-click the ZIP and choose Extract All.
+2. Open the extracted THE_ANA_ISSUE_EDITABLE folder in Visual Studio Code.
+3. Click EDIT_HERE.js (not index.html).
+4. Change text ONLY between quotation marks in the first section of the file.
+5. Press Ctrl+S to save.
+6. Double-click index.html to open it in Chrome; refresh after each change.
+
+IMPORTANT:
+- Keep EDIT_HERE.js next to index.html in the SAME folder.
+- Do not delete commas, quotation marks, brackets, or the code below the dividing comment.
+- To change photos, use imageOverrides in EDIT_HERE.js and put the new JPG image into the same folder.
+- Existing photos are also embedded in the HTML, so simply replacing an existing JPG file may NOT change that picture. Use imageOverrides for cover, grandma, or tattoo instead.
+- Bigger changes like adding new pages, changing animations, or changing other photo positions can be done later.
+- To share the finished site with Ana, upload the complete folder to GitHub Pages, not just the HTML file.

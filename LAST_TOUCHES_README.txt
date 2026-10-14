@@ -1,0 +1,1 @@
+Changes: larger archive photos; heels photo anchored to bottom; centered finale title and red string; enlarged tattoo and hands close-ups. Page 6 The plot never stops photo is awaiting your new photo of both of you. All previous content kept.
